@@ -6,7 +6,7 @@
  */
 
 int tiger_alpha(void) {
-   return 0;
+   return 99;
 }
 
 /* Task 2:

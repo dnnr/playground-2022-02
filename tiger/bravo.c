@@ -6,7 +6,7 @@
  */
 
 int tiger_bravo(void) {
-   return 0;
+   return 23;
 }
 
 /* Task 2:

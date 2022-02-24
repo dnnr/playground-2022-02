@@ -6,7 +6,7 @@
  */
 
 int penguin_alpha(void) {
-   return 0;
+   return 42;
 }
 
 /* Task 2:

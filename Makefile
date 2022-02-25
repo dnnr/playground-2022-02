@@ -1,6 +1,7 @@
 .SUFFIXES:
 
 .PHONY: all
+
 all: main
 
 .PHONY: run

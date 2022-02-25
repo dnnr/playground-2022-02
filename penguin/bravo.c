@@ -5,7 +5,7 @@
  * to something other than zero.
  */
 
-int penguin_bravo(void) {
+short penguin_bravo(void) {
    return 0;
 }
 
